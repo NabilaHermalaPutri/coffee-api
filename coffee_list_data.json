@@ -4,79 +4,79 @@
     "title": "Caffè Latte",
     "price": "Rp 25.000",
     "detail": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
-    "thumbnail": "caffe_latte_thumbnail.png",
-    "poster": "caffe_latte_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/caffe_latte_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/caffe_latte_poster.jpg"
   },
   {
     "id": 2,
     "title": "Cappuccino",
     "price": "Rp 27.000",
     "detail": "Espresso with steamed milk, topped with a deep layer of foam. A classic Italian coffee with rich texture and smooth flavor.",
-    "thumbnail": "cappuccino_thumbnail.png",
-    "poster": "cappuccino_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/cappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/cappuccino_poster.jpg"
   },
   {
     "id": 3,
     "title": "Caffè Mocha",
     "price": "Rp 28.000",
     "detail": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Perfect for those who love both coffee and chocolate.",
-    "thumbnail": "caffe_mocha_thumbnail.png",
-    "poster": "caffe_mocha_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/caffe_mocha_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/caffe_mocha_poster.jpg"
   },
   {
     "id": 4,
     "title": "Caramel Macchiato",
     "price": "Rp 29.000",
     "detail": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce. Sweet, creamy, and perfect for caramel lovers.",
-    "thumbnail": "caramel_macchiato_thumbnail.png",
-    "poster": "caramel_macchiato_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/caramel_macchiato_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/caramel_macchiato_poster.jpg"
   },
   {
     "id": 5,
     "title": "Vanilla Sweet Cream Cold Brew",
     "price": "Rp 30.000",
     "detail": "Our slow-steeped Cold Brew topped with a delicate float of vanilla sweet cream that cascades throughout the cup. A perfect balance of bold and smooth.",
-    "thumbnail": "vanilla_sweet_cream_cold_brew_thumbnail.png",
-    "poster": "vanilla_sweet_cream_cold_brew_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/vanilla_sweet_cream_cold_brew_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/vanilla_sweet_cream_cold_brew_poster.jpg"
   },
   {
     "id": 6,
     "title": "Cold Brew",
     "price": "Rp 26.000",
     "detail": "Slow-steeped, small-batch, and super smooth. Developed to heighten the rich, naturally sweet flavor created during cold brewing.",
-    "thumbnail": "cold_brew_thumbnail.png",
-    "poster": "cold_brew_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/cold_brew_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/cold_brew_poster.jpg"
   },
   {
     "id": 7,
     "title": "Mango Passion Frappuccino",
     "price": "Rp 31.000",
     "detail": "A tropical mango and passionfruit infusion, perfectly blended with fruity hibiscus tea and ice. Refreshing and full of summer vibes.",
-    "thumbnail": "mango_passion_frappuccino_thumbnail.png",
-    "poster": "mango_passion_frappuccino_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/mango_passion_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/mango_passion_frappuccino_poster.jpg"
   },
   {
     "id": 8,
     "title": "Raspberry Currant Frappuccino",
     "price": "Rp 31.000",
     "detail": "Made with freshly brewed Teavana tea, blended juice and ice. A fruity, vibrant drink perfect for any occasion.",
-    "thumbnail": "raspberry_currant_frappuccino_thumbnail.png",
-    "poster": "raspberry_currant_frappuccino_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/raspberry_currant_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/raspberry_currant_frappuccino_poster.jpg"
   },
   {
     "id": 9,
     "title": "Coffee Frappuccino",
     "price": "Rp 29.000",
     "detail": "Starbucks coffee blended with nonfat milk and ice for a sip on the light side. Smooth, simple, and satisfying.",
-    "thumbnail": "coffee_frappuccino_thumbnail.png",
-    "poster": "coffee_frappuccino_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/coffee_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/coffee_frappuccino_poster.jpg"
   },
   {
     "id": 10,
     "title": "Mocha Frappuccino",
     "price": "Rp 30.000",
     "detail": "Mocha sauce, Frappuccino roast coffee, milk, and ice all come together for a mocha flavor that'll leave you wanting more.",
-    "thumbnail": "mocha_frappuccino_thumbnail.png",
-    "poster": "mocha_frappuccino_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/mocha_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/NabilaHermalaPutri/coffee-api/refs/heads/main/images/mocha_frappuccino_poster.jpg"
   }
 ]
